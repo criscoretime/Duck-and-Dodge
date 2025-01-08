@@ -26,9 +26,10 @@ Pasos
 1. Descarga el proyecto o clona el repositorio(CMD):
    
    git clone https://github.com/criscoretime/duck-and-dodge.git
+
    cd duck-and-dodge
    
-2. Ejecuta el archivo principal para iniciar el juego(CMD):
+3. Ejecuta el archivo principal para iniciar el juego(CMD):
    
    python main.py
    
